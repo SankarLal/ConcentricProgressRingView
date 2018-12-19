@@ -15,5 +15,4 @@ Pod::Spec.new do |s|
   }
 
   s.source_files = 'ConcentricProgressRingView/Classes/**/*'
-  s.dependency 'LionheartExtensions'
 end
