@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/lionheart/ConcentricProgressRingView.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/lionheartsw'
 
-  s.ios.deployment_target = '10.3'
+  s.ios.deployment_target = '10.0'
 
   s.pod_target_xcconfig = {
     'SWIFT_VERSION' => '4.2'
